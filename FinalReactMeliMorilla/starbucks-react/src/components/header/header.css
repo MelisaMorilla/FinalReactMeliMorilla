@@ -1,0 +1,8 @@
+/*Css del header y contenedor del header*/
+header .header__container{
+    display: flex;
+    gap: 30px; /* separacion del mismo tamaño entre los elementos */
+    height: 90px;
+    padding-block: 20px; /*solo arriba y abajo*/
+}
+

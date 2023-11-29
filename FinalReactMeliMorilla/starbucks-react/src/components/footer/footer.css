@@ -1,0 +1,19 @@
+.redes-sociales{
+  display: inline-block;
+ 
+  display: flex;
+  flex-direction:row;
+  justify-content:center;
+  align-items: center;   
+  position: relative;
+}
+.derechos{
+   
+  height: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+} 
